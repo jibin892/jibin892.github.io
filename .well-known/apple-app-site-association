@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "KJHZV3KU6N.com.personalhealth"
+        ],
+        "components": [
+          {
+            "/": "/daytether-support/update.html"
+          }
+        ]
+      }
+    ]
+  }
+}
